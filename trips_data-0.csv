@@ -1,0 +1,66 @@
+city,product_type,status,request_time,begin_trip_time,begintrip_lat,begintrip_lng,begintrip_address,dropoff_time,dropoff_lat,dropoff_lng,dropoff_address,distance,fare_currency,fare_amount
+Nairobi,Uber X,completed,2025-09-07T08:30:33.000Z,2025-09-07T08:48:04.000Z,-1.2917554,36.787827,"Argwings Kodhek Rd, Nairobi, Kenya",2025-09-07T09:17:03.000Z,-1.2201416,36.881897,"QVHJ+J34, USIU Rd, Nairobi, Kenya",10.33,Kenyan Shilling,758.0
+Nairobi,uberCHAPCHAP,completed,2025-09-06T11:26:45.000Z,2025-09-06T11:54:28.000Z,-1.2204283,36.881435,"Mirema Road, Nairobi, Kenya",2025-09-06T12:36:34.000Z,-1.2863767,36.809074,"45198-00100 GPO, State House Avenue, Nairobi, Kenya",9.59,Kenyan Shilling,721.0
+Nairobi,uberCHAPCHAP,completed,2025-09-05T10:35:07.000Z,2025-09-05T10:38:05.000Z,-1.2202985,36.88065,"Mirema Road, Nairobi, Kenya",2025-09-05T10:58:44.000Z,-1.2328479,36.877914,"Thika Rd, Nairobi, Kenya",2.07,Kenyan Shilling,255.0
+Nairobi,uberCHAPCHAP,rider_canceled,2025-09-05T10:34:10.000Z,,-1.2204232,36.881428,"",,-1.2204232,36.881428,"Thika Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2025-08-31T18:27:00.000Z,2025-08-31T18:31:04.000Z,-1.2616183,36.80127,"Sarit Centre, Karuna Rd, Nairobi, Kenya",2025-08-31T18:56:39.000Z,-1.2233733,36.877094,"Esantos apartments, Nairobi, Kenya",8.12,Kenyan Shilling,497.0
+Nairobi,uberCHAPCHAP,completed,2025-08-24T23:49:42.000Z,2025-08-25T00:03:56.000Z,-1.2911566,36.78895,"Argwings Kodhek Rd, Nairobi, Kenya",2025-08-25T00:28:11.000Z,-1.2204083,36.88141,"QVHJ+J34, USIU Rd, Nairobi, Kenya",10.46,Kenyan Shilling,640.0
+Nairobi,uberXL,completed,2025-08-24T09:33:11.000Z,2025-08-24T09:39:45.000Z,-1.2330517,36.87382,"Mountain Mall, 3rd Floor Thika Rd, Nairobi, Kenya",2025-08-24T09:44:06.000Z,-1.2344528,36.875,"Nairobi, Kenya",0.3,Kenyan Shilling,300.0
+Nairobi,uberXL,completed,2025-08-24T05:34:02.000Z,2025-08-24T05:45:06.000Z,-1.2205431,36.881504,"Mirema Road, Nairobi, Kenya",2025-08-24T06:10:06.000Z,-1.2915334,36.787918,"Argwings Kodhek Rd, Nairobi, Kenya",11.07,Kenyan Shilling,1350.0
+Nairobi,uberCHAPCHAP,completed,2025-08-23T10:49:20.000Z,2025-08-23T10:51:03.000Z,-1.2203434,36.881443,"Mirema Road, Nairobi, Kenya",2025-08-23T11:32:25.000Z,-1.2939132,36.793827,"Near Yaya Center, Argwings Kodhek Rd, Nairobi, Kenya",11.01,Kenyan Shilling,680.0
+Nairobi,Pool,rider_canceled,2025-08-23T10:35:42.000Z,,-1.220421,36.88143,"",,-1.220421,36.88143,"Near Yaya Center, Argwings Kodhek Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2025-07-27T12:11:32.000Z,2025-07-27T12:20:09.000Z,-1.2728585,36.80399,"PRG3+RPG, Riverside Dr, Nairobi, Kenya",2025-07-27T12:35:23.000Z,-1.2203779,36.88146,"QVJH+9H, Nairobi, Kenya",8.06,Kenyan Shilling,560.0
+Nairobi,uberCHAPCHAP,completed,2025-07-20T05:51:21.000Z,2025-07-20T05:54:50.000Z,-1.2203609,36.881424,"Mirema Road, Nairobi, Kenya",2025-07-20T06:16:03.000Z,-1.2921226,36.787952,"Argwings Kodhek Rd, Nairobi, Kenya",10.95,Kenyan Shilling,650.0
+Nairobi,uberCHAPCHAP,completed,2025-06-06T15:09:04.000Z,2025-06-06T15:29:29.000Z,-1.2116214,36.850548,"Kigwa Rd, Nairobi, Kenya",2025-06-06T15:46:25.000Z,-1.2202852,36.881435,"Mirema Road, Nairobi, Kenya",3.75,Kenyan Shilling,260.0
+Nairobi,uberCHAPCHAP,driver_canceled,2025-06-06T13:19:48.000Z,,-1.2110583,36.851196,"",,-1.2110583,36.851196,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Boda,rider_canceled,2025-06-02T11:30:08.000Z,,-1.3043762,36.771015,"",,-1.3043762,36.771015,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,eBoda,rider_canceled,2025-06-02T11:24:34.000Z,,-1.3043762,36.771015,"",,-1.3043762,36.771015,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2025-05-31T15:51:28.000Z,2025-05-31T15:54:45.000Z,-1.2329351,36.877975,"72-01000 Commercial St, Thika, Kenya",2025-05-31T16:04:03.000Z,-1.2204106,36.881477,"Mirema Road, Nairobi, Kenya",2.08,Kenyan Shilling,220.0
+Nairobi,uberCHAPCHAP,rider_canceled,2025-05-27T06:19:42.000Z,,-1.2198001,36.879417,"",,-1.2198001,36.879417,"General Kago Rd, Thika, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,eBoda,rider_canceled,2025-05-19T14:53:08.000Z,,-1.2846745,36.822933,"",,-1.2846745,36.822933,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberXL,failed,2025-05-18T17:37:41.000Z,,-1.232828,36.877956,"",,-1.232828,36.877956,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberXL,completed,2025-05-18T15:16:52.000Z,2025-05-18T15:34:41.000Z,-1.2200704,36.881912,"QVHJ+J34, USIU Rd, Nairobi, Kenya",2025-05-18T15:47:50.000Z,-1.232299,36.877483,"Thika Rd, Nairobi, Kenya",2.71,Kenyan Shilling,370.0
+Nairobi,uberCHAPCHAP,completed,2025-05-11T20:50:30.000Z,2025-05-11T21:03:45.000Z,-1.2185675,36.886803,"TRM Dr, Nairobi, Kenya",2025-05-11T21:12:27.000Z,-1.2204139,36.881416,"Mirema Road, Nairobi, Kenya",1.54,Kenyan Shilling,230.0
+Nairobi,uberCHAPCHAP,completed,2025-05-10T17:26:45.000Z,2025-05-10T17:35:07.000Z,-1.28444,36.823067,"12 Standard St, Nairobi, Kenya",2025-05-10T17:53:48.000Z,-1.2204098,36.881382,"Mirema Road, Nairobi, Kenya",7.38,Kenyan Shilling,580.0
+Nairobi,Uber X,failed,2025-05-09T20:19:49.000Z,,-1.2937944,36.793827,"",,-1.2937944,36.793827,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Uber X,rider_canceled,2025-05-09T20:17:20.000Z,,-1.2937944,36.793827,"",,-1.2937944,36.793827,"Mirema Road, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2025-04-22T15:49:28.000Z,2025-04-22T16:06:14.000Z,-1.2327733,36.877853,"72-01000 Commercial St, Thika, Kenya",2025-04-22T16:16:38.000Z,-1.2203788,36.881405,,2.09,Kenyan Shilling,260.0
+Nairobi,Boda,completed,2025-04-20T15:41:14.000Z,2025-04-20T15:47:28.000Z,-1.2917953,36.78584,"Wood Ave, Nairobi, Kenya",2025-04-20T15:51:04.000Z,-1.2939918,36.793846,"Near Yaya Center, Argwings Kodhek Rd, Nairobi, Kenya",0.62,Kenyan Shilling,90.0
+Nairobi,uberCHAPCHAP,failed,2025-04-20T06:49:14.000Z,,-1.2204132,36.881424,"",,-1.2204132,36.881424,"Argwings Kodhek Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2025-04-18T10:01:07.000Z,2025-04-18T10:05:35.000Z,-1.2203275,36.88146,"Mirema Road, Nairobi, Kenya",2025-04-18T10:29:02.000Z,-1.2929176,36.79036,"Argwings Kodhek Rd, Nairobi, Kenya",11.21,Kenyan Shilling,760.0
+Nairobi,uberXL,failed,2024-12-07T19:58:22.000Z,,-1.2204047,36.88142,"",,-1.2204047,36.88142,"Embakasi, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-12-07T17:41:38.000Z,,-1.2869757,36.80915,"",,-1.2869757,36.80915,"QVJH+9H, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-12-07T14:50:57.000Z,2024-12-07T15:02:54.000Z,-1.2196517,36.879288,"QVJH+9H, Nairobi, Kenya",2024-12-07T16:13:54.000Z,-1.286321,36.80912,"45198-00100 GPO, State House Avenue, Nairobi, Kenya",10.03,Kenyan Shilling,870.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-12-07T14:50:19.000Z,,-1.2204047,36.88142,"",,-1.2204047,36.88142,"45198-00100 GPO, State House Avenue, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-12-06T23:37:06.000Z,2024-12-06T23:44:00.000Z,-1.2185249,36.886475,"TRM Dr, Nairobi, Kenya",2024-12-06T23:49:34.000Z,-1.2202315,36.880898,"QVJH+9H, Nairobi, Kenya",0.58,Kenyan Shilling,220.0
+Nairobi,uberCHAPCHAP,completed,2024-12-06T15:00:41.000Z,2024-12-06T15:20:46.000Z,-1.2919011,36.786037,"Wood Ave, Nairobi, Kenya",2024-12-06T16:29:49.000Z,-1.221039,36.883152,"USIU Rd, Nairobi, Kenya",10.06,Kenyan Shilling,850.0
+Nairobi,uberCHAPCHAP,completed,2024-12-06T09:05:35.000Z,2024-12-06T09:14:27.000Z,-1.2204427,36.881443,"Mirema Road, Nairobi, Kenya",2024-12-06T10:09:02.000Z,-1.2918856,36.78578,"Wood Ave, Nairobi, Kenya",11.4,Kenyan Shilling,920.0
+Nairobi,Boda,rider_canceled,2024-12-06T08:49:34.000Z,,-1.2204047,36.88142,"",,-1.2204047,36.88142,"Wood Ave, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Boda,rider_canceled,2024-12-06T08:45:41.000Z,,-1.2204047,36.88142,"",,-1.2204047,36.88142,"Wood Ave, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-11-16T20:19:27.000Z,2024-11-16T20:35:45.000Z,-1.27424,36.799053,"Ring Road Kileleshwa, Nairobi, Kenya",2024-11-16T20:55:14.000Z,-1.2203583,36.88138,"QVJH+9H, Nairobi, Kenya",8.65,Kenyan Shilling,620.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-11-07T17:18:50.000Z,,-1.232828,36.877956,"",,-1.232828,36.877956,"Unnamed Road, QVPH+CXR, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-11-07T17:05:08.000Z,,-1.232828,36.877956,"",,-1.232828,36.877956,"Unnamed Road, QVPH+CXR, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-11-07T16:53:26.000Z,2024-11-07T17:00:06.000Z,-1.2328717,36.878006,"Peponi Rd, Nairobi, Kenya",2024-11-07T17:03:05.000Z,-1.2354262,36.87322,"Nairobi, Kenya",0.43,Kenyan Shilling,220.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-11-07T16:50:40.000Z,,-1.232828,36.877956,"",,-1.232828,36.877956,"Unnamed Road, QVPH+CXR, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-11-07T14:25:14.000Z,2024-11-07T14:34:58.000Z,-1.2137479,36.88025,"Unnamed Road, QVPH+CXR, Nairobi, Kenya",2024-11-07T14:53:20.000Z,-1.2328296,36.877956,"Thika Rd, Nairobi, Kenya",3.81,Kenyan Shilling,250.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-11-07T14:19:44.000Z,,-1.2137771,36.878326,"",,-1.2137771,36.878326,"Thika Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Boda,rider_canceled,2024-11-07T14:17:52.000Z,,-1.2138972,36.87988,"",,-1.2138972,36.87988,"Thika Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-11-02T00:24:40.000Z,2024-11-02T00:29:57.000Z,-1.2624383,36.80423,"Nairobi, Kenya",2024-11-02T00:48:39.000Z,-1.220374,36.881413,"QVJH+9H, Nairobi, Kenya",7.58,Kenyan Shilling,510.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-11-02T00:10:47.000Z,,-1.2625932,36.80382,"",,-1.2625932,36.80382,"QVJH+9H, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Uber X,completed,2024-10-29T13:38:09.000Z,2024-10-29T13:45:56.000Z,-1.232747,36.877785,"Peponi Rd, Nairobi, Kenya",2024-10-29T13:53:14.000Z,-1.2200309,36.889977,"Nairobi, Kenya",2.12,Kenyan Shilling,270.0
+Nairobi,uberCHAPCHAP,completed,2024-10-29T12:26:24.000Z,2024-10-29T12:42:51.000Z,-1.2204272,36.881454,"Mirema Road, Nairobi, Kenya",2024-10-29T13:09:17.000Z,-1.3130729,36.896503,"Fedha Rd, Nairobi, Kenya",10.15,Kenyan Shilling,230.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-10-29T11:59:00.000Z,,-1.2204101,36.881416,"",,-1.2204101,36.881416,"Thika Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-10-29T11:55:05.000Z,,-1.2204101,36.881416,"",,-1.2204101,36.881416,"Thika Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Uber X,rider_canceled,2024-10-20T03:58:43.000Z,,-1.2204101,36.881416,"",,-1.2204101,36.881416,"Argwings Kodhek Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Uber X,rider_canceled,2024-10-20T03:56:08.000Z,,-1.2204101,36.881416,"",,-1.2204101,36.881416,"Argwings Kodhek Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Uber X,rider_canceled,2024-10-20T03:49:16.000Z,,-1.2204101,36.881416,"",,-1.2204101,36.881416,"Argwings Kodhek Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,Uber X,rider_canceled,2024-10-20T03:44:01.000Z,,-1.2204101,36.881416,"",,-1.2204101,36.881416,"Argwings Kodhek Rd, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-10-03T16:45:30.000Z,,-1.2204114,36.88142,"",,-1.2204114,36.88142,"PRFX+2W5, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-10-03T16:37:18.000Z,,-1.2208275,36.882748,"",,-1.2208275,36.882748,"PRFX+2W5, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-10-03T16:33:25.000Z,,-1.2208313,36.88275,"",,-1.2208313,36.88275,"PRFX+2W5, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,uberCHAPCHAP,completed,2024-10-03T16:10:52.000Z,2024-10-03T16:20:13.000Z,-1.218785,36.88754,"Clay City, Nairobi, Kenya",2024-10-03T16:32:05.000Z,-1.2208318,36.882744,"USIU Rd, Nairobi, Kenya",0.71,Kenyan Shilling,220.0
+Nairobi,eBoda,failed,2024-09-21T15:35:34.000Z,,-1.232828,36.877956,"",,-1.232828,36.877956,"QVJH+9H, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
+Nairobi,eBoda,completed,2024-09-21T09:06:11.000Z,2024-09-21T09:27:08.000Z,-1.220465,36.881474,"Mirema Road, Nairobi, Kenya",2024-09-21T09:38:19.000Z,-1.2320117,36.87716,"Thika Rd, Nairobi, Kenya",2.84,Kenyan Shilling,140.0
+Nairobi,Boda,completed,2024-08-28T11:54:56.000Z,2024-08-28T13:06:25.000Z,-1.2895133,36.81116,"Kenyatta Avenue, Nairobi, Nairobi, Kenya",2024-08-28T13:15:06.000Z,-1.3015683,36.81616,"Kilimanjaro Rd, Nairobi, Kenya",1.72,Kenyan Shilling,90.0
+Nairobi,uberCHAPCHAP,completed,2024-08-21T16:29:01.000Z,2024-08-21T16:38:19.000Z,-1.23276,36.877876,"Peponi Rd, Nairobi, Kenya",2024-08-21T16:46:15.000Z,-1.219795,36.879383,"QVJH+9H, Nairobi, Kenya",2.24,Kenyan Shilling,220.0
+Nairobi,uberCHAPCHAP,rider_canceled,2024-08-21T16:24:25.000Z,,-1.232828,36.877956,"",,-1.232828,36.877956,"QVJH+9H, Nairobi, Kenya",0.0,Kenyan Shilling,0.0
