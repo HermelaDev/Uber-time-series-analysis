@@ -1,4 +1,7 @@
-![Alt text for image](images/your_image.png)
+<p align="center">
+  <img src="https://github.com/HermelaDev/Uber-time-series-analysis/blob/main/Uber.jpg" alt="Alt text" width="400"/>
+</p>
+
 # Uber-time-series-analysis
 ## 📌 1. Introduction
 This project uses my personal Uber trip data (**65 rides**) to explore the **time series elements** in ride cancellations.  
