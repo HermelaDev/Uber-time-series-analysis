@@ -3,6 +3,10 @@
 </p>
 
 # Uber-time-series-analysis
+## 🚀 Live Dashboard
+You can view the interactive Streamlit dashboard here:  
+[Uber Time Series Dashboard](https://uber-time-series-analysis-99xan68xpk3wbnjeb5orsc.streamlit.app/)
+
 ## 📌 1. Introduction
 This project uses my personal Uber trip data (**65 rides**) to explore the **time series elements** in ride cancellations.  
 The main question investigated is:  
